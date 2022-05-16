@@ -11,6 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
+    <Header title="CONTRIBUTORS" /> <br>
         <Header title="Welcome to Genfinity's LightHouse Report" />
         <p className="description">
    
