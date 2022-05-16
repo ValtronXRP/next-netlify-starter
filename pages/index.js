@@ -13,18 +13,10 @@ export default function Home() {
       <main>
         <Header title="Welcome to Genfinity's LightHouse Report" />
         <p className="description">
-    
-    <html>
-<body>
 
-<p>Click on the w3schools logo to download the image:<p>
+<a href="market_sentiment.html" download>Download MARKET SENTIMENT TEMPLATE</a>
+   
 
-   <a href="marketsentiment" download="market_sentiment.html">
-  <img src="marketsent" alt="W3Schools">
-</a>
-
-</body>
-</html>
     
           Click here to <code>DOWNLOAD your template</code>
         </p>
