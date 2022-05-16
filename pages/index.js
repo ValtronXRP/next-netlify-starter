@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Welcome to Genfinity's LightHouse Report" />
         <p className="description">
    
-          Click here to <code><a href="mstemp.pdf" download>Download MARKET SENTIMENT TEMPLATE</a>></code>
+          Click here to <code><a href="mstemp.pdf" download>Download MARKET SENTIMENT TEMPLATE</a></code>
         </p>
       </main>
 
