@@ -18,7 +18,7 @@ export default function Home() {
    
 
     
-          Click here to <code>DOWNLOAD your template</code>
+          Click here to <code><a href="market-sentiment-template.zip" download>Download MARKET SENTIMENT TEMPLATE</a></code>
         </p>
       </main>
 
