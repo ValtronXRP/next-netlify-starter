@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Genfinity's LightHouse Report" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Click here to <code>DOWNLOAD your template</code>
         </p>
       </main>
 
