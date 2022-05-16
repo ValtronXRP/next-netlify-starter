@@ -13,6 +13,10 @@ export default function Home() {
       <main>
         <Header title="Welcome to Genfinity's LightHouse Report" />
         <p className="description">
+    
+    <a href="/images/myw3schoolsimage.jpg" download="w3logo">
+  <img src="/images/myw3schoolsimage.jpg" alt="W3Schools">
+</a>
           Click here to <code>DOWNLOAD your template</code>
         </p>
       </main>
