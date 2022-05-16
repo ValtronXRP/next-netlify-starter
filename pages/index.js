@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="CONTRIBUTORS"<br>"Welcome to Genfinity's LightHouse Report"/>
+        <Header title="CONTRIBUTORS\nWelcome to Genfinity's LightHouse Report"/>
         <p className="description">
    
           Click here to <code><a href="mstemp.pdf" download>Download MARKET SENTIMENT TEMPLATE</a></code>
