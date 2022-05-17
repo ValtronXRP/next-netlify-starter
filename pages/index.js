@@ -15,6 +15,10 @@ export default function Home() {
       <main>
         <Header title="CONTRIBUTORS to Genfinity's LightHouse Report"/>
         <p className="description">
+    
+    var desc = "Test\n\nTest"
+desc = desc.replace(/\n/g, "<br>");
+$('#description').html(desc);
    
    
           Click here to <code><a href="mstemp.pdf" download>Download MARKET SENTIMENT TEMPLATE</a></code>
