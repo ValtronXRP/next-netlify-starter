@@ -6,12 +6,7 @@ export default function Home() {
   return (
     
    <div className="container">
-    
-    img {
-    content:url(https://www.genfinitylhr.com/gen3d.jpg);
-}
-  
-    
+ 
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
