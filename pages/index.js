@@ -26,7 +26,7 @@ export default function Home() {
     
     <!DOCTYPE html>
     
-    <h2>2 2</h2>
+    <h2>heywhats up 2</h2>
    
           Click here to <a href="mstemp.pdf" download>Download MARKET SENTIMENT TEMPLATE          
     </a>
