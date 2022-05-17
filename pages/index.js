@@ -27,12 +27,12 @@ export default function Home() {
     
             </p>
     
-        <p className="description">
-         \r\n
+       <p className="description">
+     
     
-             Click here to <code><a href="artemp.pdf" download>Download ADOPTION REVIEW TEMPLATE</a></code>
+          Click here to <code><a href="artemp.pdf" download>Download ADOPTION REVIEW TEMPLATE</a></code>
     
-                </p>
+            </p>
     
     
       </main>
