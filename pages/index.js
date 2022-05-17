@@ -6,9 +6,11 @@ export default function Home() {
   return (
     
    <div className="container">
-    <image> https://www.genfinitylhr.com/gen3d.jpg
     
-    </image>
+    img {
+    content:url(https://www.genfinitylhr.com/gen3d.jpg);
+}
+  
     
       <Head>
         <title>Next.js Starter!</title>
