@@ -26,7 +26,7 @@ export default function Home() {
     
    
           Click here to <code><a href="mstemp.pdf" download>Download MARKET SENTIMENT TEMPLATE</a></code>
-     <br>
+     \n
     
            Click here to <code><a href="artemp.pdf" download>Download ADOPTION REVIEW TEMPLATE</a></code>
          </p>
