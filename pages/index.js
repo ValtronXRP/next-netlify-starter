@@ -5,27 +5,7 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     
-    <html>
-<body>
-
-<p id="demo"></p>
-
-<script>
-function display_image(src, width, height, alt) {
-    var a = document.createElement("img");
-    a.src = src;
-    a.width = width;
-    a.height = height;
-    a.alt = alt;
-    document.body.appendChild(a);
-}
-display_image('gen3d.jpg', 
-                 500, 
-                 500, 
-                 'JavaScriptImage');
-</script>
-</body>
-</html>
+   https://www.genfinitylhr.com/gen3d.jpg
   
   
   
