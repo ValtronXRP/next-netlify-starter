@@ -5,6 +5,22 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     
+    
+    
+    
+    var desc = "Test\n\nTest"
+desc = desc.replace(/\n/g, "<br>");
+$('#description').html(desc);
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<div id="description"></div>
+   
+  
+  
+    
+    
+    
+    
    <div className="container">
  
       <Head>
@@ -16,10 +32,7 @@ export default function Home() {
         <Header title="CONTRIBUTORS to Genfinity's LightHouse Report"/>
         <p className="description">
     
-    var desc = "Test\n\nTest"
-desc = desc.replace(/\n/g, "<br>");
-$('#description').html(desc);
-   
+    
    
           Click here to <code><a href="mstemp.pdf" download>Download MARKET SENTIMENT TEMPLATE</a></code>
        \n
