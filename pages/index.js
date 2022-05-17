@@ -14,6 +14,10 @@ export default function Home() {
       </Head>
 
       <main>
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<div id="description"></div>
+    
         <Header title="CONTRIBUTORS to Genfinity's LightHouse Report"/>
         <p className="description">
     
