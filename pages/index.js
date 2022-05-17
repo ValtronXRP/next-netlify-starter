@@ -5,12 +5,11 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     
-   https://www.genfinitylhr.com/gen3d.jpg
-  
-  
-  
+   <div className="container">
+    <image> https://www.genfinitylhr.com/gen3d.jpg
     
-    <div className="container">
+    </image>
+    
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
