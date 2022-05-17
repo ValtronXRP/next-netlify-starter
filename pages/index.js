@@ -22,9 +22,7 @@ export default function Home() {
     
         <p className="description">
   
-    
-    
-    <!DOCTYPE html>
+   
     
    
    
