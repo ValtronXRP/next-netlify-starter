@@ -20,18 +20,16 @@ export default function Home() {
         <Header title="CONTRIBUTORS to Genfinity's LightHouse Report"/>
     
     
-        <className="description">
+        <p className="description">
   
-    
-    <p>
-    
-    
    
           Click here to <a href="mstemp.pdf" download>Download MARKET SENTIMENT TEMPLATE</a>
     
           Click here to <a href="artemp.pdf" download>Download ADOPTION REVIEW TEMPLATE</a>
     
             </p>
+    
+    </main>
 
       <Footer />
     </div>
