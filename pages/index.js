@@ -31,25 +31,25 @@ export default function Home() {
    
    
           Click here to <a href="mstemp.pdf" download>Download MARKET SENTIMENT TEMPLATE</a>
-     \n
+
           Click here to <a href="artemp.pdf" download>Download ADOPTION REVIEW TEMPLATE</a>
-     \n
+
           Click here to <a href="artemp.pdf" download>Download ADOPTION REVIEW TEMPLATE</a>
-     \n
+
           Click here to <a href="TATEMP.pdf" download>Download TECHNICAL ANALYSIS TEMPLATE</a>
-     \n
+
           Click here to <a href="TRADFITEMP.pdf" download>Download TRADFI TEMPLATE</a>
-     \n 
+
           Click here to <a href="DEFIWEB3TEMP.pdf" download>Download DEFI WEB3 TEMPLATE</a>
-     \n
+
           Click here to <a href="ASIANMARKETSTEMP.pdf" download>Download ASIAN MARKETS TEMPLATE</a>
-     \n
+
           Click here to <a href="REGREVIEWTEMP.pdf" download>Download REGULATION REVIEW TEMPLATE</a>
-     \n
+    
           Click here to <a href="RABBITHOLETEMP.pdf" download>Download RABBIT HOLE TEMPLATE</a>
-     \n
+    
           Click here to <a href="EXECSUITETEMP.pdf" download>Download EXECUTIVE SUITE TEMPLATE</a>
-     \n
+     
           Click here to <a href="CRYPTOEDUCATIONTEMP.pdf" download>Download CRYPTO EDUCATION TEMPLATE</a>
     
             </p>
