@@ -19,9 +19,13 @@ export default function Home() {
     
         <Header title="CONTRIBUTORS to Genfinity's LightHouse Report"/>
     
+     </div>
+    
     
         <p className="description">
-  
+    
+ 
+  <div className="code">
    
     
    
