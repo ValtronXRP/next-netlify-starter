@@ -25,7 +25,13 @@ export default function Home() {
         <p className="html">
     
  
-
+<html>
+ <head>
+ </head>
+ <body>
+   <span id="content1">The first line.</span><span id="content2">The second line.</span>
+ </body>
+</html>
    
     
   
