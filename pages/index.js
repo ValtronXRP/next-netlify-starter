@@ -25,17 +25,11 @@ export default function Home() {
         <p className="html">
     
  
-<html>
- <head>
- </head>
- <body>
-   <span id="content1">The first line.</span><span id="content2">The second line.</span>
- </body>
-</html>
+
    
     
   
-   <p
+   <p>
           Click here to <a href="mstemp.pdf" download>Download MARKET SENTIMENT TEMPLATE</a>
    
           Click here to <a href="artemp.pdf" download>Download ADOPTION REVIEW TEMPLATE</a>
