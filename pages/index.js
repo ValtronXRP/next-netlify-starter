@@ -32,6 +32,18 @@ export default function Home() {
     
           Click here to <a href="artemp.pdf" download>Download ADOPTION REVIEW TEMPLATE</a>
     
+          Click here to <a href="artemp.pdf" download>Download ADOPTION REVIEW TEMPLATE</a>
+    
+          Click here to <a href="artemp.pdf" download>Download TECHNICAL ANALYSIS TEMPLATE</a>
+    
+          Click here to <a href="artemp.pdf" download>Download TRADFI TEMPLATE</a>
+          
+          Click here to <a href="artemp.pdf" download>Download DEFI WEB3 TEMPLATE</a>
+    
+          Click here to <a href="artemp.pdf" download>Download ASIAN MARKETS TEMPLATE</a>
+    
+          Click here to <a href="artemp.pdf" download>Download REGULATION REVIEW TEMPLATE</a>
+    
             </p>
     
     </main>
