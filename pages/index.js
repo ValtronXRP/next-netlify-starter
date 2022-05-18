@@ -30,27 +30,27 @@ export default function Home() {
     
    
    
-          Click here to <a href="mstemp.pdf" download>Download MARKET SENTIMENT TEMPLATE</a>
+         <a href="mstemp.pdf" download>Download MARKET SENTIMENT TEMPLATE</a>
 
-          Click here to <a href="artemp.pdf" download>Download ADOPTION REVIEW TEMPLATE</a>
+    <a href="artemp.pdf" download>Download ADOPTION REVIEW TEMPLATE</a>
 
-          Click here to <a href="artemp.pdf" download>Download ADOPTION REVIEW TEMPLATE</a>
+ <a href="artemp.pdf" download>Download ADOPTION REVIEW TEMPLATE</a>
 
-          Click here to <a href="TATEMP.pdf" download>Download TECHNICAL ANALYSIS TEMPLATE</a>
+     <a href="TATEMP.pdf" download>Download TECHNICAL ANALYSIS TEMPLATE</a>
 
-          Click here to <a href="TRADFITEMP.pdf" download>Download TRADFI TEMPLATE</a>
+         <a href="TRADFITEMP.pdf" download>Download TRADFI TEMPLATE</a>
 
-          Click here to <a href="DEFIWEB3TEMP.pdf" download>Download DEFI WEB3 TEMPLATE</a>
+     <a href="DEFIWEB3TEMP.pdf" download>Download DEFI WEB3 TEMPLATE</a>
 
-          Click here to <a href="ASIANMARKETSTEMP.pdf" download>Download ASIAN MARKETS TEMPLATE</a>
+ <a href="ASIANMARKETSTEMP.pdf" download>Download ASIAN MARKETS TEMPLATE</a>
 
-          Click here to <a href="REGREVIEWTEMP.pdf" download>Download REGULATION REVIEW TEMPLATE</a>
+     <a href="REGREVIEWTEMP.pdf" download>Download REGULATION REVIEW TEMPLATE</a>
     
-          Click here to <a href="RABBITHOLETEMP.pdf" download>Download RABBIT HOLE TEMPLATE</a>
+         <a href="RABBITHOLETEMP.pdf" download>Download RABBIT HOLE TEMPLATE</a>
     
-          Click here to <a href="EXECSUITETEMP.pdf" download>Download EXECUTIVE SUITE TEMPLATE</a>
+     <a href="EXECSUITETEMP.pdf" download>Download EXECUTIVE SUITE TEMPLATE</a>
      
-          Click here to <a href="CRYPTOEDUCATIONTEMP.pdf" download>Download CRYPTO EDUCATION TEMPLATE</a>
+ <a href="CRYPTOEDUCATIONTEMP.pdf" download>Download CRYPTO EDUCATION TEMPLATE</a>
     
             </p>
     
