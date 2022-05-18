@@ -30,7 +30,7 @@ export default function Home() {
     
    
    
-         <a href="mstemp.pdf" download>Download MARKET SENTIMENT TEMPLATE&nbsp &nbsp &nbsp &nbsp &nbsp</a>
+         <a href="mstemp.pdf" download>Download MARKET SENTIMENT TEMPLATE</a>
 
     <a href="artemp.pdf" download>Download ADOPTION REVIEW TEMPLATE</a>
 
